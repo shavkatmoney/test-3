@@ -13,6 +13,9 @@ function render() {
     let header__intValue = elheader__inp.value
     console.log(header__intValue);
     
+
+
+    
     for (let i = 0; i < pokemons.length; i++) {
         const item = pokemons[i];
 
